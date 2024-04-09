@@ -1,8 +1,7 @@
 
 ## 项目描述
 
-原始[GPT_SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)的效果体验和推理服务较大依赖于基于Gradio的webui界面，为了更方便地推理体验GPT_SoVITS效果，本项目将其推理部分提取并暴露出来，支持一键式的推理部署。
-
+原始[GPT_SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)的效果体验和推理服务较大依赖于基于Gradio的webui界面，为了更方便地推理体验GPT_SoVITS效果，本项目将其推理部分提取分离出来.
 ## 模型设置
 
 
